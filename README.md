@@ -10,7 +10,15 @@ Tools: Google Cloud Platform (GCP) and Terminal
 - Verified that load balancer distributes traffic across backend instances.
 
 ## Screenshot
-![load balancer dashboard](screenshots/load-balancer.png)
+![load balancer dashboard](screenshots/load-balancing.png)
+
+![instance-group](screenshots/instance-groups.png)
+
+![backend-service](screenshots/backend.png)
+
+![web-before-reload](screenshots/loaded-1.png)
+
+![web-after-reload](screenshots/loaded-2.png)
 
 ## Learning Outcome
 Understood how load balancing improves availability and scalability of web apps.
